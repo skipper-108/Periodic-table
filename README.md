@@ -9,7 +9,7 @@ To get started with Atom Insight, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/itfeelsharsh/atominsight.git
+   git clone https://github.com/skipper-108/Periodic-table.git
    ```
 
 2. **Navigate to the project directory:**
