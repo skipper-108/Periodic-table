@@ -46,6 +46,4 @@ The build artifacts will be stored in the `build` directory. You can deploy thes
 
 If you would like to contribute to Atom Insight, please fork the repository and create a pull request. Make sure to write clear commit messages and test your changes before submitting.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
